@@ -1,33 +1,32 @@
-# Owen Shao
+# Wang Li
 
-Frontend Developer | Full-Stack Engineer | UX Designer
+**Frontend Developer | Full-Stack Engineer | UX Explorer**
 
-[Website](https://your-site.com) · [LinkedIn](https://linkedin.com/in/your-name) · [Email](mailto:your@email.com)
+> Building playful, useful, and human-centered digital experiences.
 
 ## About Me
 
-- Currently working on interactive educational platforms
-- Passionate about gamified learning, AI applications, and frontend engineering
-- Open to collaboration on innovative web projects
-- Ask me about React, Next.js, TypeScript, and UI design
+- Currently crafting web experiences that mix clean engineering with thoughtful interaction design
+- Passionate about creative coding, AI-powered products, gamified learning, and developer tools
+- Exploring the space between frontend engineering, full-stack architecture, and product design
+- Open to collaborating on useful, weird, beautiful, or ambitious web projects
 
 ## Tech Stack
 
 **Frontend**  
-React | Next.js | TypeScript | Tailwind CSS | Framer Motion
+React | Next.js | TypeScript | Tailwind CSS | Shadcn UI | Framer Motion | Redux Toolkit
 
 **Backend**  
-Node.js | Python | PostgreSQL | MongoDB
+Node.js | NestJS | Python | PostgreSQL | MongoDB | REST APIs | WebSocket
 
 **DevOps & Tools**  
-Docker | GitHub Actions | Vercel | AWS
+Docker | GitHub Actions | Vercel | AWS | Turborepo | Sentry | Git
 
-## Featured Projects
+**Design & Product**  
+Figma | UI/UX Design | Design Systems | Prototyping | Accessibility | Product Thinking
 
-- [Project Name](https://github.com/yourname/project) - Short project description
-- [Project Name](https://github.com/yourname/project) - Short project description
+## Let's Connect
 
-## Contact
+- Email: 554397757@qq.com
 
-- Website: https://your-site.com
-- Email: your@email.com
+> "Make it useful. Make it clear. Then make it memorable."
